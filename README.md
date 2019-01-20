@@ -35,7 +35,7 @@ Roles migration file can be found at: src/main/resources/db/migration/V1.01_init
   - Example body:
     ```json
     {
-	  "usernameOrEmail": "testusername",
+	  "usernameOrEmail": "johndoe",
 	  "password": "123456"
     }
     ```
